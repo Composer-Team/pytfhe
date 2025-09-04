@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpy_tfhe_oss_doc=self.webpackChunkpy_tfhe_oss_doc||[]).push([[7327],{9349:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/pytfhe/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

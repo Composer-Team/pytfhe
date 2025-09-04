@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpy_tfhe_oss_doc=self.webpackChunkpy_tfhe_oss_doc||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/pytfhe/blog","blogTitle":"Blog","authorsListPath":"/pytfhe/blog/authors"}')}}]);
